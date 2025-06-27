@@ -23,4 +23,4 @@ dotnet test
 ```
 ## 📁 Notes
 - `bin/` , `obj/` , and test artifacts are excluded via `.gitignore`
-- For comparison with Playwright, check [Playwright C# version](https://github.com/rohanash18/saucedemo-playwright-csharp.git)
+- For comparison with Playwright, check [Playwright C# version](https://github.com/rohan-tests/saucedemo-playwright-csharp.git)
