@@ -1,3 +1,4 @@
+⚠️ Note: This project was originally uploaded from another GitHub account which has now been deactivated. Re-uploaded here for portfolio continuity.
 # 🧪 Selenium C# NUnit – SauceDemo Automation
 
 This project automates end-to-end test scenarios on [saucedemo.com](https://www.saucedemo.com) using **Selenium WebDriver** with **C# and NUnit**.
