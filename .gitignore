@@ -1,0 +1,13 @@
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.trx
+*.log
+*.userprefs
+logs/
